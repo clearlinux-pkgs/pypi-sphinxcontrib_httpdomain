@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib_httpdomain
 Version  : 1.8.0
-Release  : 48
+Release  : 49
 URL      : https://files.pythonhosted.org/packages/6f/00/6560676deac1d2be1009d5e14b2b16fcc9f5e9c3ac00ed50c3b297a60d3a/sphinxcontrib-httpdomain-1.8.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/6f/00/6560676deac1d2be1009d5e14b2b16fcc9f5e9c3ac00ed50c3b297a60d3a/sphinxcontrib-httpdomain-1.8.0.tar.gz
 Summary  : Sphinx domain for documenting HTTP APIs
@@ -65,7 +65,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656371676
+export SOURCE_DATE_EPOCH=1656409326
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
