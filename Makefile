@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sphinxcontrib_httpdomain
-URL = https://files.pythonhosted.org/packages/6f/00/6560676deac1d2be1009d5e14b2b16fcc9f5e9c3ac00ed50c3b297a60d3a/sphinxcontrib-httpdomain-1.8.0.tar.gz
+URL = https://files.pythonhosted.org/packages/be/ef/82d3cfafb7febce4f7df8dcf3cde9d072350b41066e05a4f559b4e9105d0/sphinxcontrib-httpdomain-1.8.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
